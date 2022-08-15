@@ -3,7 +3,7 @@ from PySide2.QtGui import *
 from PySide2.QtWidgets import *
 
 ### 추가
-
+### 추가 2
 
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
